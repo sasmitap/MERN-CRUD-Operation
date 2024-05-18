@@ -1,0 +1,30 @@
+.Users {
+    /* background-image: url("D:\CRUD-Operation\client\src\assets\photo-1632516643720-e7f5d7d6ecc9.avif"); */
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: aqua;
+    padding-top: 120px;
+}
+
+
+.User .table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.User btn .btn-success{
+    padding-top: 20px;
+}
+/* .table tr:hover {background-color: #ddd;} */
+
+.table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:black;
+    color: white;
+  }
+
+  
